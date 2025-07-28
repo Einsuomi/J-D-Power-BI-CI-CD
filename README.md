@@ -10,7 +10,10 @@
 
 - **Approval Process**  
   Release managers review and approve deployments to production, providing human oversight and compliance before changes go live.
-
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourprofile/powerbi-dashboard-example.png" alt="Power BI Dashboard Example" width="600">
+</p>
 ---
 
 ## 🗂️ Overview Page
