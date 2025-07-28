@@ -1,60 +1,52 @@
-# J&D Report – Data Analytics Portfolio
+# J&D Report With CI/CD in Power BI
 
-Welcome to the **J&D Report** Data Analytics Portfolio!  
-This repository showcases projects, analytic techniques, and insights, as presented on the [J&D Report Data Analytics Portfolio website](https://ethannie2020.wixsite.com/data-analytics/copy-of-heureka-science-center-report).
+## 🚀 Power BI CI/CD Architecture 
 
----
+- **Validation Pipeline**  
+  Automatically runs on each commit to the dev branch. Checks that datasets and reports follow best practices, verifies measure accuracy, and applies a wide range of validation rules (such as reviewing data model relationships or flagging report pages with too many visuals). Ensures all requirements are met before allowing pull requests to the main branch.
 
-## 📊 Overview
+- **Release Pipeline**  
+  Automatically deploys changes that pass validation to different deployment stages. Each stage has its own workspace, reducing the risk of unintended changes and supporting robust testing before production rollout.
 
-The J&D Report features a range of data analytics projects that highlight skills in:
-- Exploratory data analysis
-- Predictive modeling
-- Business intelligence
-- Data visualization
-
-Projects are rooted in real-world datasets and focus on delivering actionable insights and business value.
+- **Approval Process**  
+  Release managers review and approve deployments to production, providing human oversight and compliance before changes go live.
 
 ---
 
-## 📁 Project Highlights
+## 🗂️ Overview Page
 
-| Project Category       | Description                                                      |
-|-----------------------|------------------------------------------------------------------|
-| Instagram Analytics   | Examined user data, engagement trends, and performance metrics.  |
-| Metric Spike Study    | Investigated anomalies and trends in metrics data.               |
-| Hiring Process Analysis | Analyzed HR/recruitment processes and outcomes.                |
-| IMDB Film Analysis    | Explored movie data for patterns, trends, and predictions.       |
-| Bank Loan Modeling    | Built risk models and approval analytics for loan data.          |
+- **Hidden Slicers**  
+  Keep slicers out of view for a cleaner, less cluttered report page.
 
----
+- **KPI Tracking**  
+  Effortlessly monitor key performance indicators over different time periods.
 
-## 🛠️ Technologies Used
-
-- **Python** (Pandas, NumPy, scikit-learn, matplotlib, seaborn)
-- **SQL**
-- **Excel/Google Sheets**
-- **Visualization**: Tableau / Power BI
-- **Statistical & ML techniques**: Regression, Clustering, Classification
+- **Drill-Through Enabled**  
+  Quickly access detailed data by drilling through visualizations for in-depth analysis.
 
 ---
 
-## 🚩 How to Use
-
-Check the repository files and notebooks to review:
-- Methodologies
-- Sample code
-- Explanations and visualizations
-
-Where possible, datasets are included or referenced. Some case studies may use anonymized or simulated data due to privacy.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/yourprofile/powerbi-dashboard-example.png" alt="Power BI Dashboard Example" width="600">
+</p>
 
 ---
 
-## 📬 Contact
+## 🧑‍💼 Customer Details
 
-Questions, feedback, or collaboration inquiries welcome!  
-Please reach out via the [portfolio website](https://ethannie2020.wixsite.com/data-analytics).
+- **KPIs Selection**  
+  Easily select KPIs to follow—view by customer or revenue per customer.
+
+- **Top Customer Analysis**  
+  Analyze top customers by segment with ease.
+
+- **No Purchase Customer Analysis**  
+  Identify and analyze customers who have not made a purchase to uncover potential opportunities and improve engagement strategies.
 
 ---
 
-_This README was generated based on the public contents and descriptions of the J&D Report portfolio website._
+### 👉 [**View the full interactive report in Power BI Service here**](https://app.powerbi.com/your-report-link)
+
+---
+
+*For more information, visit the [J&D Report Data Analytics Portfolio](https://ethannie2020.wixsite.com/data-analytics/copy-of-heureka-science-center-report).*
