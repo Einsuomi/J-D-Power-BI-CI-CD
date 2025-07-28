@@ -10,13 +10,13 @@
 
 - **Approval Process**  
   Release managers review and approve deployments to production, providing human oversight and compliance before changes go live.
-  
+---
 <p align="center">
   <img src="https://github.com/Einsuomi/J-D-Power-BI-CI-CD/blob/main/Images/J%26D%20CI_CD%20Architecture.drawio%20(1).png" alt="Power BI CI/CD Architecture" width="600">
 </p>
 ---
 
-## 🗂️ Overview Page
+## Overview Page
 
 - **Hidden Slicers**  
   Keep slicers out of view for a cleaner, less cluttered report page.
@@ -35,7 +35,7 @@
 
 ---
 
-## 🧑‍💼 Customer Details
+## Customer Details
 
 - **KPIs Selection**  
   Easily select KPIs to follow—view by customer or revenue per customer.
