@@ -13,6 +13,7 @@
   
 <p align="center">
   <img src="https://github.com/Einsuomi/J-D-Power-BI-CI-CD/blob/main/Images/J%26D%20CI_CD%20Architecture.drawio%20(1).png" alt="Power BI CI/CD Architecture" width="600">
+</p>
 ---
 
 ## 🗂️ Overview Page
@@ -29,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourprofile/powerbi-dashboard-example.png" alt="Power BI Dashboard Example" width="600">
+  <img src="https://github.com/Einsuomi/J-D-Power-BI-CI-CD/blob/main/Images/Screenshot%202025-07-27%20201111.jpg" alt="Power BI Dashboard" width="600">
 </p>
 
 ---
@@ -44,7 +45,9 @@
 
 - **No Purchase Customer Analysis**  
   Identify and analyze customers who have not made a purchase to uncover potential opportunities and improve engagement strategies.
-
+<p align="center">
+  <img src="https://github.com/Einsuomi/J-D-Power-BI-CI-CD/blob/main/Images/Screenshot%202025-07-27%20202244.jpg" alt="Power BI Dashboard" width="600">
+</p>
 ---
 
 ### 👉 [**View the full interactive report in Power BI Service here**](https://app.powerbi.com/view?r=eyJrIjoiZjQwOGI3MjctNjY1Yy00Zjg1LTg3YWUtZDcyNDcyMWQ0NTQ2IiwidCI6IjA2ZDllZTNkLTQxN2EtNGMyYi04NzdmLTgxNWMyMjdiYjk0NSIsImMiOjEwfQ%3D%3D)
