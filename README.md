@@ -11,7 +11,7 @@
 - **Approval Process**  
   Release managers review and approve deployments to production, providing human oversight and compliance before changes go live.
   
-[<p align="center">
+<p align="center">
   <img src="https://github.com/Einsuomi/J-D-Power-BI-CI-CD/blob/main/Images/J%26D%20CI_CD%20Architecture.drawio%20(1).png" alt="Power BI CI/CD Architecture" width="600">
 ---
 
